@@ -3,7 +3,7 @@ title: Nick Pittman
 ---
 ## Welcome to my website portfolio!
 <img src="docs/0298_nick_pittman_.jpg" width="200" height="300"/>  
-[Resume](docs/resume.pdf)
+**[Resume](docs/resume.pdf)**
 
 ### **Education**
 __M.S. Business Analytics, Master of Finance at the University of Iowa__  
