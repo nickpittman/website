@@ -1,15 +1,15 @@
 ---
 title: Nick Pittman
 ---
+## Welcome to my website portfolio!
+<img src="docs/0298_nick_pittman_.jpg" width="200" height="300"/>  
+[Resume](docs/resume.pdf)
+
 ### Education
 M.S. Business Analytics, Master of Finance at the University of Iowa  
 B.S.B.A Data Analytics, Finance at Drake University
 
 I am a first-year graduate student at the Univeristy of Iowa planning on graduating in May 2025. I also serve as a TA for the undergraduate Foundations of Business Analytics course and am part of the Henry Fund equity research team. In my free time I enjoy golfing, traveling, and watching the Miami Dolphins. This site highlights some of my projects and experiences and will be periodically updated to reflect new updates.
-
-<img src="docs/0298_nick_pittman_.jpg" width="200" height="300"/>  
-
-[Resume](docs/resume.pdf)
 
 ### Projects
 [Heart Failure Prediction](https://github.com/nickpittman/Heart_Failure_Prediction)  
