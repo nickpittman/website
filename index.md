@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Nick Pittman
 ---
+
+Welcome to my homepage.
 
