@@ -7,8 +7,9 @@ B.S.B.A Data Analytics, Finance at Drake University
 
 I am a first-year graduate student at the Univeristy of Iowa planning on graduating in May 2025. I also serve as a TA for the undergraduate Foundations of Business Analytics course and am part of the Henry Fund equity research team. In my free time I enjoy golfing, traveling, and watching the Miami Dolphins. 
 
-<img src="docs/0298_nick_pittman_.jpg" width="200" height="300"/>
-[Resume](docs/Resume.pdf)
+<img src="docs/0298_nick_pittman_.jpg" width="200" height="300"/>  
+
+[Resume](docs/resume.pdf)
 
 ### Projects
 [Heart Failure Prediction](https://github.com/nickpittman/Heart_Failure_Prediction)
@@ -27,7 +28,8 @@ Analyzing the sentiment of movie reviews using support vector classification, pe
 
 Predicting the probability of a Boston Bruin's player scoring a goal using a random forest and logistic regression. Completed using R Studio.  
 
-
+[RAPTOR for the Denver Nuggets](https://public.tableau.com/app/profile/nick.pittman3982/viz/RAPTORFinal/Story1)   
+Using new RAPTOR metrics developed by FiveThirtyEight, this analysis looks to identify which players have been, and will be, the strongest for the Denver Nuggets through interactive visualizations and dashboards. Completed using Tableau.   
 
 ### Connect with me!
 
